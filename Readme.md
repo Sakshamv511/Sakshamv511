@@ -1,52 +1,54 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:111827,50:4338CA,100:0891B2&amp;height=115&amp;section=header" alt="Blue and violet gradient banner" />
 
-# Hi there! I'm Saksham Vashist 👋
+  <h1>Hey, I'm Saksham Vashist 👋</h1>
+  <p><strong>Artificial Intelligence &amp; Machine Learning Undergraduate</strong></p>
+  <p>Chitkara University &nbsp;·&nbsp; Class of 2028</p>
 
-🎓 B.E. in Artificial Intelligence & Machine Learning  
-🏫 Chitkara University | Class of 2028
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=900&amp;color=818CF8&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=55&amp;lines=Exploring+Artificial+Intelligence;Thinking+in+Algorithms;Learning+Beyond+the+Classroom;Turning+Curiosity+into+Code" alt="Exploring Artificial Intelligence, Thinking in Algorithms, Learning Beyond the Classroom, Turning Curiosity into Code" />
 
-I'm an AI & ML undergraduate interested in building
-practical applications, exploring emerging technologies,
-and improving my programming and problem-solving skills.
+  <p>
+    <img src="https://img.shields.io/badge/Artificial_Intelligence-4338CA?style=for-the-badge" alt="Artificial Intelligence" />
+    <img src="https://img.shields.io/badge/Machine_Learning-0E7490?style=for-the-badge" alt="Machine Learning" />
+    <img src="https://img.shields.io/badge/Problem_Solving-334155?style=for-the-badge" alt="Problem Solving" />
+  </p>
+</div>
 
-## 💻 Technical Skills
+---
 
-**Languages:** Java, Python, C++, JavaScript, SQL
+## 🧠 Beyond the Code
 
-**Backend:** Node.js, Express.js, Django, Flask
+I'm an AI & ML undergraduate curious about the mathematics, logic, and engineering behind intelligent systems. I'm interested in how machines learn from data, how algorithms turn complex problems into manageable ones, and how technology can transform ideas into meaningful solutions.
 
-**Frontend:** React.js, HTML5, CSS3, Bootstrap
+For me, programming is more than writing instructions for a computer. It's a way to think, experiment, ask better questions, and understand the world through computation.
 
-**Databases:** MongoDB, MySQL, SQLite
+## ⚡ My Current Exploration
 
-**Tools:** Git, GitHub, VS Code, Postman
+| Domain | What interests me |
+| :--- | :--- |
+| 🤖 **Artificial Intelligence** | How machines reason, adapt, and make decisions. |
+| 🧬 **Machine Learning** | Discovering patterns, learning from data, and understanding model behavior. |
+| 🧩 **Algorithms & Problem Solving** | Breaking down complexity and finding efficient solutions. |
+| ⚙️ **Software Engineering** | Building reliable software with thoughtful logic and design. |
+| 🌐 **Emerging Technologies** | Exploring what's next at the intersection of computing and intelligence. |
 
-## 🚀 Featured Projects
+## 🚀 The Mindset
 
-### 📦 OptiVault — Warehouse Management System
-A warehouse management application featuring
-item-to-slot allocation using the First-Fit
-Decreasing algorithm.
+```python
+while curious:
+    explore()
+    question()
+    experiment()
+    learn()
+    improve()
+```
 
-**Tech:** JavaScript, Node.js, Express.js, MongoDB
+I value strong fundamentals, consistent learning, and the freedom to experiment. My goal is not just to use new technologies, but to understand the principles that make them possible.
 
-[View Project](https://github.com/Sakshamv511/OptiVault)
+---
 
-### 🏥 Healthcare Appointment Management System
-A full-stack healthcare platform for patient
-registration, doctor management, and appointments.
-
-**Tech:** Python, Django, Flask, SQLite, Bootstrap
-
-[View Project](https://github.com/Sakshamv511/HealthCareAppointmentManagementSystem-G-35)
-
-## 🏅 Certifications
-
-- Microsoft Certified: Azure AI Fundamentals (AI-900)
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Microsoft Certified: Azure Data Fundamentals (DP-900)
-
-## 📚 Currently Learning
-
-- Data Structures & Algorithms
-- Backend Development
-- Artificial Intelligence & Machine Learning
+<div align="center">
+  <h3>Curiosity → Knowledge → Innovation</h3>
+  <p><em>Always a student of technology. Always a work in progress.</em></p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:111827,50:4338CA,100:0891B2&amp;height=90&amp;section=footer" alt="Blue and violet gradient footer" />
+</div>
